@@ -6,8 +6,8 @@ body
 {
 	margin: 0;
 	padding: 0;
-	color: #fff;
-	background-color: #eee;
+	color: #542be2;
+	background-color: #fff;
 	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
 }
 
@@ -29,6 +29,8 @@ p
 {
 	margin: 0 0 1.5em;
 	line-height: 1.5;
+font-size: 1.125em; /* 18px */
+
 }
 
 blockquote
