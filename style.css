@@ -28,3 +28,17 @@ p
 font-size: 1.125em; /* 18px */
 
 }
+
+
+a:link, a:visited {
+	color: blue;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0px 5px;
+
+  }
+  
+  a:hover, a:active {
+	color: rgb(61, 61, 255);
+	text-decoration: none;
+  }
